@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="34" viewBox="0 0 121 34" role="img" aria-label="REST APIs">
+  <rect x=".5" y=".5" width="120" height="33" rx="7" fill="#142034" stroke="#3a4e6b"/>
+  <rect x="5" y="5" width="24" height="24" rx="4.5" fill="#7addcf" fill-opacity=".12"/>
+  <svg x="9" y="9" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#7addcf" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1" />
+    <path d="M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1" />
+  </svg>
+  <text x="37" y="17.5" dominant-baseline="middle" fill="#edf4ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">REST APIs</text>
+</svg>

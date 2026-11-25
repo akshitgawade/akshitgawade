@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="34" viewBox="0 0 98 34" role="img" aria-label="TCP/IP">
+  <rect x=".5" y=".5" width="97" height="33" rx="7" fill="#142034" stroke="#3a4e6b"/>
+  <rect x="5" y="5" width="24" height="24" rx="4.5" fill="#69d8f1" fill-opacity=".12"/>
+  <svg x="9" y="9" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#69d8f1" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="16" y="16" width="6" height="6" rx="1" />
+    <rect x="2" y="16" width="6" height="6" rx="1" />
+    <rect x="9" y="2" width="6" height="6" rx="1" />
+    <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" />
+    <path d="M12 12V8" />
+  </svg>
+  <text x="37" y="17.5" dominant-baseline="middle" fill="#edf4ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">TCP/IP</text>
+</svg>

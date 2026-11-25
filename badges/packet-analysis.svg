@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="34" viewBox="0 0 153 34" role="img" aria-label="Packet Analysis">
+  <rect x=".5" y=".5" width="152" height="33" rx="7" fill="#142034" stroke="#3a4e6b"/>
+  <rect x="5" y="5" width="24" height="24" rx="4.5" fill="#69d8f1" fill-opacity=".12"/>
+  <svg x="9" y="9" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#69d8f1" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2" />
+  </svg>
+  <text x="37" y="17.5" dominant-baseline="middle" fill="#edf4ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Packet Analysis</text>
+</svg>

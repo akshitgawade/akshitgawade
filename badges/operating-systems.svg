@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="34" viewBox="0 0 172 34" role="img" aria-label="Operating Systems">
+  <rect x=".5" y=".5" width="171" height="33" rx="7" fill="#142034" stroke="#3a4e6b"/>
+  <rect x="5" y="5" width="24" height="24" rx="4.5" fill="#b4a3ff" fill-opacity=".12"/>
+  <svg x="9" y="9" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#b4a3ff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 19h8" />
+    <path d="m4 17 6-6-6-6" />
+  </svg>
+  <text x="37" y="17.5" dominant-baseline="middle" fill="#edf4ff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Operating Systems</text>
+</svg>
