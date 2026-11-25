@@ -6,14 +6,20 @@
 
 ## About Me
 
-I’m a Computer Science and Engineering student who loves turning ideas into working software. I build web apps and Java/MySQL projects, and I’m excited to bring what I’m learning about application security into the software I build.
+<img src="terminal-mark.svg" alt="AG terminal monogram on a blue grid" align="right" width="144">
+
+I’m a cybersecurity enthusiast and second-year Computer Science and Engineering student with a foundation in **C, C++, Java, and data structures**. My research internship and labs gave me hands-on exposure to **network analysis, web application testing, and Azure security fundamentals**.
+
+I enjoy building practical applications and understanding the systems they depend on. I’m strengthening my Linux, networking, and problem-solving skills by tracing how software works and testing what I learn in labs.
+
+<br clear="both">
 
 ## Projects
 
-| Project | What it does | Stack | Repository |
+| Project | About | Stack | Repository |
 | --- | --- | --- | --- |
-| **Narrative Lens** | Compares how news outlets cover the same event using measurable language and sourcing signals. | TypeScript, React | [Source](https://github.com/akshitgawade/lens-media) |
-| **EV Charging Slot Booking System** | Lets users book EV charging slots through a Java desktop app backed by MySQL. | Java Swing, JDBC, MySQL | [Source](https://github.com/akshitgawade/EV_Charging_Slot_Booking_System) |
+| **Narrative Lens** | Compares how news outlets report on the same event. The analysis API ingests feeds and articles and measures source attribution, agency, and language intensity. The dashboard compares stakeholder coverage and shows how headlines changed between saved snapshots. | **Web**<br>TypeScript, React, TanStack Start, TanStack Router, TanStack Query, Bun, Vite, Nitro, Tailwind CSS, shadcn/ui, Zod, Recharts, Three.js, React Three Fiber, GSAP, Lenis.<br><br>**Analysis API**<br>Python, FastAPI, Uvicorn, Pydantic, spaCy, Groq, feedparser, Trafilatura.<br><br>**Data and auth**<br>Supabase (PostgreSQL, Auth, Edge Functions). | [Source](https://github.com/akshitgawade/lens-media) |
+| **EV Charging Slot Booking System** | A desktop booking app with separate customer and admin dashboards. Customers search stations, check charging slots, and make or cancel reservations. Admins manage stations and slots and generate revenue reports. The JDBC data layer uses MySQL transactions to record reservations. | Java 17, Swing, JDBC (MySQL Connector/J), MySQL, Maven. | [Source](https://github.com/akshitgawade/EV_Charging_Slot_Booking_System) |
 
 <!-- Add Praman to the project table once its description and public repository or demo link are ready. -->
 
@@ -23,7 +29,12 @@ I’m a Computer Science and Engineering student who loves turning ideas into wo
 
 **Research Intern** · September–November 2026
 
-Studied Azure security, penetration testing, and exploit analysis. Covered network security, TCP/IP, DNS, HTTP/HTTPS, and packet analysis, and learned to use Burp Suite, Nmap, Wireshark, Metasploit, sqlmap, and John the Ripper.
+Studied and practiced these topics during the internship.
+
+- Cyber Foundation (operating systems and network essentials), AI in cybersecurity, reconnaissance, and Burp Suite.
+- Selected OPSWAT Associate certifications, then injection vulnerabilities, authentication, broken access control, SSTI, and CSRF.
+- Nmap, Linux and Windows privilege escalation, Android and iOS penetration testing, dark web OSINT, and Azure cloud security.
+- Digital forensics fundamentals and case studies.
 
 ## Education
 

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+  <title id="title">AG terminal monogram</title>
+  <desc id="desc">Ivory AG initials between a blue command chevron and underscore on a navy grid.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07101d"/>
+      <stop offset=".62" stop-color="#0c192d"/>
+      <stop offset="1" stop-color="#12274a"/>
+    </linearGradient>
+    <radialGradient id="grid-glow">
+      <stop offset="0" stop-color="#287eff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#287eff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse">
+      <path d="M27 0H0V27" fill="none" stroke="#627fbb" stroke-opacity=".15" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="500" height="500" fill="url(#background)"/>
+  <ellipse cx="361" cy="279" rx="285" ry="249" fill="url(#grid-glow)"/>
+  <rect width="500" height="500" fill="url(#grid)"/>
+  <path d="M82 218l35 31-35 31m285 15h49" fill="none" stroke="#64baff"
+        stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#edf6ff">
+    <path fill-rule="evenodd"
+          d="M135 302 177 194h24l42 108h-24l-8-22h-44l-8 22h-24Zm40-44h28l-14-37Z"/>
+    <path d="M270 194h76v21h-65l-11 11v44l11 11h43v-23h-27v-20h49v49l-15 15h-61l-22-22v-64Z"/>
+  </g>
+</svg>
