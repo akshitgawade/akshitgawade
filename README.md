@@ -19,9 +19,9 @@ I’m a Computer Science and Engineering student who loves turning ideas into wo
 
 ## Experience
 
-### Research Intern
+### Cyber Secured India (Safe Skills Limited)
 
-**Cyber Secured India (Safe Skills Limited)** · September–November
+**Research Intern** · September–November 2026
 
 Studied Azure security, penetration testing, and exploit analysis. Covered network security, TCP/IP, DNS, HTTP/HTTPS, and packet analysis, and learned to use Burp Suite, Nmap, Wireshark, Metasploit, sqlmap, and John the Ripper.
 
@@ -29,7 +29,7 @@ Studied Azure security, penetration testing, and exploit analysis. Covered netwo
 
 ### B.Tech in Computer Science and Engineering
 
-**2025–2029**
+**Symbiosis Institute of Technology, Pune** · 2025–2029
 
 <h2 align="center">Skills &amp; Tools</h2>
 
